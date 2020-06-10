@@ -1,4 +1,10 @@
+.project {
+    text-align: justify;
+}
 
+.lead {
+    text-align: justify;
+}
 
 @media only screen and (min-width:900px) {
 	.project {
