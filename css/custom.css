@@ -6,6 +6,15 @@
     text-align: justify;
 }
 
+.grayImage {
+  filter: grayscale(100%);
+  padding-left: 20px;
+}
+
+.grayImage:hover {
+    filter: grayscale(0%);
+}
+
 @media only screen and (min-width:900px) {
 	.project {
         display: flex;
